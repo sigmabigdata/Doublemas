@@ -1,0 +1,15 @@
+D:\Git\Projects\DoubleMas\Ex002\obj\Debug\net6.0\Ex002.csproj.AssemblyReference.cache
+D:\Git\Projects\DoubleMas\Ex002\obj\Debug\net6.0\Ex002.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Projects\DoubleMas\Ex002\obj\Debug\net6.0\Ex002.AssemblyInfoInputs.cache
+D:\Git\Projects\DoubleMas\Ex002\obj\Debug\net6.0\Ex002.AssemblyInfo.cs
+D:\Git\Projects\DoubleMas\Ex002\obj\Debug\net6.0\Ex002.csproj.CoreCompileInputs.cache
+D:\Git\Projects\DoubleMas\Ex002\bin\Debug\net6.0\Ex002.exe
+D:\Git\Projects\DoubleMas\Ex002\bin\Debug\net6.0\Ex002.deps.json
+D:\Git\Projects\DoubleMas\Ex002\bin\Debug\net6.0\Ex002.runtimeconfig.json
+D:\Git\Projects\DoubleMas\Ex002\bin\Debug\net6.0\Ex002.dll
+D:\Git\Projects\DoubleMas\Ex002\bin\Debug\net6.0\Ex002.pdb
+D:\Git\Projects\DoubleMas\Ex002\obj\Debug\net6.0\Ex002.dll
+D:\Git\Projects\DoubleMas\Ex002\obj\Debug\net6.0\refint\Ex002.dll
+D:\Git\Projects\DoubleMas\Ex002\obj\Debug\net6.0\Ex002.pdb
+D:\Git\Projects\DoubleMas\Ex002\obj\Debug\net6.0\Ex002.genruntimeconfig.cache
+D:\Git\Projects\DoubleMas\Ex002\obj\Debug\net6.0\ref\Ex002.dll
